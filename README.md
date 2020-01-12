@@ -6,11 +6,9 @@ advance calculator with GUI using Tkinter in python
 1. Clone this repository.<br>
 2. Allow execution of the Calculator_ui.py<br>
 3. Execute Calculator_ui.py<br>
-</p><br>
-<img src="">
-
-<img src="">
-
+</p>
+<img src="images/screenchot.png">
+<br>
 <h1>Supported Operations</h1>
 
 <table>
