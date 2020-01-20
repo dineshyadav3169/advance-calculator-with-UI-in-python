@@ -7,7 +7,7 @@ advance calculator with GUI using Tkinter in python
 2. Allow execution of the Calculator_ui.py<br>
 3. Execute Calculator_ui.py<br>
 </p>
-<img src="images/screenchot.png">
+<img src="images/Screenshot (4).png">
 <br>
 <h1>Supported Operations</h1>
 
