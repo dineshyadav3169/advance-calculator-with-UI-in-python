@@ -9,7 +9,7 @@ Both Tk and Tkinter are available on most Unix platforms, as well as on Windows 
 If you work on Linux/Ubuntu then you have to install Tkinter module on your machine for running programs, but on windows you don’t need to install it because it comes with the default python installation.
 <br>
 <h1>Prerequisite For Python Calculator</h1>
-For developing a simple GUI calculator in python you must have to prior knowledge of following –
+For developing a simple GUI calculator in python you must have to prior knowledge of following –<br>
 1. Tkinter<br>
 2. Lambda<br>
 <br>
@@ -24,13 +24,13 @@ For developing a simple GUI calculator in python you must have to prior knowledg
 &#9679 tan
 &#9679 Exponent(e)
 &#9679 log
-<br>
+<br><br>
 <b>And now we will start writing codes for making this. To create this we have to do four things</b> –<br>
 1. Importing Tkinter module<br>
 2. Creating the main interface(window for calculator)<br>
 3. Adding any number of widgets to the main interface<br>
 4. Applying the event trigger on widgets
-
+<br>
 <br>
 <h1>How to Use</h1>
 <p>
