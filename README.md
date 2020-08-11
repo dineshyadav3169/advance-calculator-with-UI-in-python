@@ -38,7 +38,7 @@ For developing a simple GUI calculator in python you must have to prior knowledg
 2. Allow execution of the Calculator_ui.py<br>
 3. Execute Calculator_ui.py<br>
 </p>
-<img src="images/Screenshot (4).png">
+<img src="images/Screenshot (4).png"><img src="images/Screenshot 2.png">
 <br>
 <h1>Supported Operations</h1>
 
